@@ -113,17 +113,18 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:032843_0000_0FF5B6DD2BF46160"/>
-            <pb facs="tcp:032843_0001_0FF5B69725EF22C8" rendition="simple:additions"/>
+            <pb facs="unknown:032843_0000_0FF5B6DD2BF46160"/>
+            <pb facs="unknown:032843_0001_0FF5B69725EF22C8"
+                rendition="simple:additions"/>
             <p>EDWIN AND ANGELINA; OR THE BANDITTI. AN OPERA, IN THREE ACTS.</p>
             <p>NEW-YORK: Printed by T. &amp; J. SWORDS, No. 99 Pearl-ſtreet. —1797.—</p>
          </div>
          <div type="copyright_notice">
-            <pb facs="tcp:032843_0002_0FF5B698A7983B00"/>
+            <pb facs="unknown:032843_0002_0FF5B698A7983B00"/>
             <p>Copy-right ſecured according to Law.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:032843_0003_0FF5B69A2C108C50"/>
+            <pb facs="unknown:032843_0003_0FF5B69A2C108C50"/>
             <head>To <hi>REUBEN</hi> and <hi>ABIGAIL SMITH,</hi> Lichfield, Connecticut.</head>
             <opener>
                <salute>MY DEAR PARENTS,</salute>
@@ -134,11 +135,11 @@
             </closer>
          </div>
          <div type="preface">
-            <pb facs="tcp:032843_0004_0FF5B69D29C39EB0"/>
+            <pb facs="unknown:032843_0004_0FF5B69D29C39EB0"/>
             <head>PREFACE.</head>
             <p>AN Author, of ſome reputation, has declared it as his opi<g ref="char:EOLhyphen"/>nion, that every Preface ſhould be hiſtorical; and explain, not only the deſign of the work it precedes, but the circumſtances and motives which led to its compoſition. It would ill become me to controvert a doctrine ſo convenient for my preſent pur<g ref="char:EOLhyphen"/>poſe. Authors, it is true, are apt to meaſure the reſpect of others for their productions, by the eſtimation in which they are held by themſelves. In this they may be, and often are, de<g ref="char:EOLhyphen"/>ceived. Yet, perhaps, they do not greatly err, when they ſuppoſe the hiſtory of their performances would not be un<g ref="char:EOLhyphen"/>pleaſing to thoſe who have thought the performances them<g ref="char:EOLhyphen"/>ſelves worthy of their attention. Such an error, at leaſt, is venial; and will, I hope, be pardoned by thoſe who may deem the ſucceeding ſtatement unneceſſary.</p>
             <p>The principal ſcenes of the following Drama were compoſed in March, 1791; as an exerciſe, to beguile the wearineſs of a ſhort period of involuntary leiſure; and without any view to theatrical repreſentation. From that time, till the month of October, 1793, they lay neglected, and almoſt forgotten. An accident then bringing them to recollection, ſeveral ſhort ſcenes were added, agreeable to my original deſign; and the whole adapted to the Stage. The piece was preſented to the <hi>then</hi> Managers of The Old American Company, for their acceptance, the December following; but the peculiar ſitua<g ref="char:EOLhyphen"/>tion of the Theatre prevented any attention to this application, till June, 1794; when, on a change in the management, it
-<pb n="6" facs="tcp:032843_0005_0FF5B6A4150D09C0"/>
+<pb n="6" facs="unknown:032843_0005_0FF5B6A4150D09C0"/>
 was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen"/>quaintance with the Stage, had convinced me that the Piece might undergo alterations, with advantage. Theſe were un<g ref="char:EOLhyphen"/>dertaken, immediately: the loſs of a comic character, which was now rejected, was ſupplied by two new ſcenes; addi<g ref="char:EOLhyphen"/>tional ſongs were compoſed; and a Drama of two acts, in proſe, was converted into the Opera, in its preſent form, in the courſe of the ſucceeding month. The inherent defects of the plan were ſuch as could not be remedied, without beſtow<g ref="char:EOLhyphen"/>ing on the ſubject a degree of attention incompatible with pro<g ref="char:EOLhyphen"/>feſſional engagements; and which I, therefore, thought my<g ref="char:EOLhyphen"/>ſelf juſtified in withholding. But ſhould this performance meet the ſame generous indulgence, in private, with which it was received, in public, I ſhall neither attempt to diſarm Cri<g ref="char:EOLhyphen"/>ticiſm of her ſeverity, nor be aſhamed of this feeble effort to contribute to the rational amuſement of my fellow-citizens.</p>
             <closer>
                <dateline>
@@ -153,7 +154,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
             </postscript>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:032843_0006_0FF5B6A596C56050"/>
+            <pb facs="unknown:032843_0006_0FF5B6A596C56050"/>
             <head>PERSONS OF THE DRAMA.</head>
             <list>
                <label>SIFRID,</label>
@@ -188,7 +189,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:032843_0007_0FF5B6A71A845868"/>
+            <pb facs="unknown:032843_0007_0FF5B6A71A845868"/>
             <head>EDWIN AND ANGELINA.</head>
             <div n="1" type="act">
                <head>ACT FIRST.</head>
@@ -220,7 +221,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                      <l>Girded with power, that raviſht every bleſſing;</l>
                      <l>Eaſe, liberty, and love:—that caſt me forth,</l>
                      <l>
-                        <pb n="10" facs="tcp:032843_0008_0FF5B6A89E848BB8"/>Drove out, a monſter, from the haunts of men,</l>
+                        <pb n="10" facs="unknown:032843_0008_0FF5B6A89E848BB8"/>Drove out, a monſter, from the haunts of men,</l>
                      <l>To foam and chafe, to prowl for prey, and ſhake,</l>
                      <l>With fierce alarms, theſe wild reſounding woods.</l>
                      <l>—O woods, ye woods, who lift your towering trunks,</l>
@@ -253,7 +254,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                      <l>—Thou know'ſt, inſcrutable God! thou knoweſt well,</l>
                      <l>That never on the weak my vengeance came;</l>
                      <l>
-                        <pb n="11" facs="tcp:032843_0009_0FF5B6B164BC82B0"/>That I have never ſtript the poor, but ſav'd</l>
+                        <pb n="11" facs="unknown:032843_0009_0FF5B6B164BC82B0"/>That I have never ſtript the poor, but ſav'd</l>
                      <l>His humble cot, and ſpar'd his little flock.</l>
                      <lg>
                         <l>The mountain ſtreams, full, deep, and wide,</l>
@@ -292,7 +293,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                      <speaker>EDRED.</speaker>
                      <l>O noble chief! moſt terrible this night!</l>
                      <l>
-                        <pb n="12" facs="tcp:032843_0010_0FF5B6B2E950D3F8"/>Moſt fierce and deadly this our laſt encounter!</l>
+                        <pb n="12" facs="unknown:032843_0010_0FF5B6B2E950D3F8"/>Moſt fierce and deadly this our laſt encounter!</l>
                      <l>If we, in each attempt, ſo much muſt dare,</l>
                      <l>Hazard ſo much; nought but increaſe of ſtrength,</l>
                      <l>Or the moſt deſperate proweſs, can uphold us.</l>
@@ -329,7 +330,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                      <l>With ſuch a generous diſregard of life</l>
                      <l>He fought; ſuch brave indignancy, that he,</l>
                      <l>
-                        <pb n="13" facs="tcp:032843_0011_0FF5B6B46E1ABC00"/>Of all the band of love, alone was left;</l>
+                        <pb n="13" facs="unknown:032843_0011_0FF5B6B46E1ABC00"/>Of all the band of love, alone was left;</l>
                      <l>The ſingle wearer of deteſted life;</l>
                      <l>I could have ſnatcht him to my ſoul, kiſt him,</l>
                      <l>And call'd him brother. But why lament him?</l>
@@ -376,7 +377,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                      <l>Diverſe, their braver friends moſt baſe forſaking.</l>
                   </sp>
                   <sp>
-                     <pb n="14" facs="tcp:032843_0012_0FF5B6B5F0188FA0"/>
+                     <pb n="14" facs="unknown:032843_0012_0FF5B6B5F0188FA0"/>
                      <speaker>SIFRID.</speaker>
                      <stage>(Agitated, and to himſelf.)</stage>
                      <l>And muſt there be more blood? and more of murder?</l>
@@ -430,7 +431,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                   </sp>
                </div>
                <div n="3" type="scene">
-                  <pb n="15" facs="tcp:032843_0013_0FF5B6BDF0BB5B68"/>
+                  <pb n="15" facs="unknown:032843_0013_0FF5B6BDF0BB5B68"/>
                   <head>SCENE III.</head>
                   <stage>
                      <hi>The Banditti ſhout, behind the Scenes, and ſhow them<g ref="char:EOLhyphen"/>ſelves, coming down the Avenues, bringing</hi> HUGO <hi>bound.</hi> EDRED <hi>ſpeaks as they enter.</hi>
@@ -460,7 +461,7 @@ was accepted. An interval of ſix months, and a further ac<g ref="char:EOLhyphen
                         <l>Care ſwift ſhould vaniſh from their hearts.</l>
                      </lg>
                      <stage>
-                        <pb n="16" facs="tcp:032843_0014_0FF5B6BF784B5C98"/>
+                        <pb n="16" facs="unknown:032843_0014_0FF5B6BF784B5C98"/>
                         <hi>(By the Band.)</hi>
                      </stage>
                      <lg>
@@ -512,7 +513,7 @@ So full is he of fear,</l>
                      <l>Captive! reſume thy courage man! Look up!</l>
                      <l>There ſhall no harm be done thee—Fear'ſt thou yet?</l>
                      <l>
-                        <pb n="17" facs="tcp:032843_0015_0FF5B6C1008A61C8"/>Fellow, I ſwear to thee upon my ſword,</l>
+                        <pb n="17" facs="unknown:032843_0015_0FF5B6C1008A61C8"/>Fellow, I ſwear to thee upon my ſword,</l>
                      <l>Nay, by my head I ſwear, no miſchievous,</l>
                      <l>Or deadly evil, ſhall be practis'd on thee.</l>
                      <l>Who? What thou art? Why here? Briefly unfold.</l>
@@ -564,7 +565,7 @@ So full is he of fear,</l>
                      <l>Speak to him, Edred.</l>
                   </sp>
                   <sp>
-                     <pb n="18" facs="tcp:032843_0016_0FF5B6C284896C38"/>
+                     <pb n="18" facs="unknown:032843_0016_0FF5B6C284896C38"/>
                      <speaker>EDRED.</speaker>
                      <stage>(To Walter.)</stage>
                      <l>I will.</l>
@@ -605,7 +606,7 @@ So full is he of fear,</l>
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="19" facs="tcp:032843_0017_0FF5B6CB9A8F1280"/>
+                  <pb n="19" facs="unknown:032843_0017_0FF5B6CB9A8F1280"/>
                   <head>SCENE IV.</head>
                   <stage>The Banditti return.</stage>
                   <stage>SIFRID. EDRED. WALTER. BANDITTI.</stage>
@@ -643,7 +644,7 @@ So full is he of fear,</l>
                      <l>—O fatal error! thus alone to truſt,</l>
                      <l>Remote from friends, in life's moſt dangerous prime,</l>
                      <l>
-                        <pb n="20" facs="tcp:032843_0018_0FF5B6CD1F7A2E88"/>Gay, inconſiderate, and warm-glowing youth!—</l>
+                        <pb n="20" facs="unknown:032843_0018_0FF5B6CD1F7A2E88"/>Gay, inconſiderate, and warm-glowing youth!—</l>
                      <l>—'Twas there his paſſions gain'd the maſtery;</l>
                      <l>And he, profuſe of wealth, unaw'd by rule,</l>
                      <l>And ignorant of reſtraint; flatter'd, careſt,</l>
@@ -690,7 +691,7 @@ So full is he of fear,</l>
                      <l>Damn'd, damn'd villain!</l>
                   </sp>
                   <sp>
-                     <pb n="21" facs="tcp:032843_0019_0FF5B6CEA4ADE868"/>
+                     <pb n="21" facs="unknown:032843_0019_0FF5B6CEA4ADE868"/>
                      <speaker>SIFRID.</speaker>
                      <l>Nor yet was quite ſubdu'd,</l>
                      <l>Tho' deeply wounded, the true love I bore him.—</l>
@@ -744,7 +745,7 @@ So full is he of fear,</l>
                      <speaker>SIFRID.</speaker>
                      <l>Strove to gain,</l>
                      <l>
-                        <pb n="22" facs="tcp:032843_0020_0FF5B6D0278C3CB0"/>Betray, corrupt, my Emma.</l>
+                        <pb n="22" facs="unknown:032843_0020_0FF5B6D0278C3CB0"/>Betray, corrupt, my Emma.</l>
                   </sp>
                   <sp>
                      <speaker>WALTER.</speaker>
@@ -797,7 +798,7 @@ So full is he of fear,</l>
                      </l>
                   </sp>
                   <sp>
-                     <pb n="23" facs="tcp:032843_0021_0FF5B6D89E007350"/>
+                     <pb n="23" facs="unknown:032843_0021_0FF5B6D89E007350"/>
                      <speaker>EDRED.</speaker>
                      <stage>(Alarmed.)</stage>
                      <l>Sifrid!</l>
@@ -843,7 +844,7 @@ So full is he of fear,</l>
                      <l>As well you know, received me. And hence my deeds,</l>
                      <l>My fortune, and my various life, you know.</l>
                      <l>
-                        <pb n="24" facs="tcp:032843_0022_0FF5B6DA247DBC60"/>But let them paſs:—Ethelbert roams theſe woods,—</l>
+                        <pb n="24" facs="unknown:032843_0022_0FF5B6DA247DBC60"/>But let them paſs:—Ethelbert roams theſe woods,—</l>
                      <l>You are brave;—I am your leader;—and you—</l>
                   </sp>
                   <sp>
@@ -889,7 +890,7 @@ So full is he of fear,</l>
                <trailer>END OF ACT I.</trailer>
             </div>
             <div n="2" type="act">
-               <pb n="25" facs="tcp:032843_0023_0FF5B6DBA79F5368"/>
+               <pb n="25" facs="unknown:032843_0023_0FF5B6DBA79F5368"/>
                <head>ACT SECOND.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -916,7 +917,7 @@ So full is he of fear,</l>
                      <l>How deſolate is life; when but to think</l>
                      <l>On thoſe whom moſt we love, afflicts us moſt.</l>
                      <l>
-                        <pb n="26" facs="tcp:032843_0024_0FF51E8D0E36E698"/>The ſoft, and gently-pleaſing woe,</l>
+                        <pb n="26" facs="unknown:032843_0024_0FF51E8D0E36E698"/>The ſoft, and gently-pleaſing woe,</l>
                      <l>Which two fond hearts, divided, know,</l>
                      <l>The ſoul with ſweeteſt ſuffering moves;</l>
                      <l>But O! when guilt with abſence joins,</l>
@@ -950,7 +951,7 @@ So full is he of fear,</l>
                      <l>And even 'mid all your woes doth innocence,</l>
                      <l>With its ſweet peace, your ſorrowing ſouls ſupport.</l>
                      <l>
-                        <pb n="27" facs="tcp:032843_0025_0FF5B6E2760F37D8"/>But I—a very wretch—(whoſe tongue hath dar'd</l>
+                        <pb n="27" facs="unknown:032843_0025_0FF5B6E2760F37D8"/>But I—a very wretch—(whoſe tongue hath dar'd</l>
                      <l>At all of ſacred uſe to ſcoff; whoſe hand,</l>
                      <l>Still hath atchiev'd whatever wild paſſion prompted;)</l>
                      <l>The ſport of agony,—know no relief.</l>
@@ -985,7 +986,7 @@ So full is he of fear,</l>
                      <stage>(A pauſe, ſhe leans againſt the ſide ſcene.)</stage>
                      <l>—Sweet are the days of youth, when innocence</l>
                      <l>
-                        <pb n="28" facs="tcp:032843_0026_0FF5B6E3F9E4D0E8"/>Lives in the breaſt, and heightens every charm.</l>
+                        <pb n="28" facs="unknown:032843_0026_0FF5B6E3F9E4D0E8"/>Lives in the breaſt, and heightens every charm.</l>
                      <l>But ah! with years' increaſe, joy flies afar;</l>
                      <l>Like the young bird, who leaves his native clime,</l>
                      <l>When ſummer fails; but not like him returns.</l>
@@ -1021,7 +1022,7 @@ So full is he of fear,</l>
                      <l>Heavens! it is Ethelbert!</l>
                   </sp>
                   <sp>
-                     <pb n="29" facs="tcp:032843_0027_0FF5B6E5819DA2A0"/>
+                     <pb n="29" facs="unknown:032843_0027_0FF5B6E5819DA2A0"/>
                      <speaker>ETHELBERT.</speaker>
                      <l>Which way ſoe'er</l>
                      <l>My footſteps ſtray, ſtill the ſame ſpot appears,</l>
@@ -1062,7 +1063,7 @@ So full is he of fear,</l>
                      <l>—And is it poſſible, that while the tears,</l>
                      <l>Of tranſport, for thy ſafety, bathe my cheeks;</l>
                      <l>
-                        <pb n="30" facs="tcp:032843_0028_0FF5B6E7083ECF30"/>O, is it poſſible! that thou with ſuch</l>
+                        <pb n="30" facs="unknown:032843_0028_0FF5B6E7083ECF30"/>O, is it poſſible! that thou with ſuch</l>
                      <l>Cold, cold demeanor, can'ſt receive me?</l>
                   </sp>
                   <sp>
@@ -1113,7 +1114,7 @@ So full is he of fear,</l>
 <stage>(With great vehemence.)</stage>
                      </l>
                      <l>
-                        <pb n="31" facs="tcp:032843_0029_0FF5B6EF14165580"/>Thou doſt not mean it. No, it cannot be,</l>
+                        <pb n="31" facs="unknown:032843_0029_0FF5B6EF14165580"/>Thou doſt not mean it. No, it cannot be,</l>
                      <l>That hither thou haſt ſtray'd of choice. What charm</l>
                      <l>Have theſe drear foreſts, and huge craggy rocks,</l>
                      <l>For one, like thee, the idol of the world?</l>
@@ -1152,7 +1153,7 @@ So full is he of fear,</l>
                      <l>I do aſſure thee, on a maiden's faith,</l>
                      <l>That not unwillingly I roam theſe woods.</l>
                      <l>
-                        <pb n="32" facs="tcp:032843_0030_0FF5B6F099A0C2B0"/>Nor do thou follow me.—Think not I ſcorn thee.—</l>
+                        <pb n="32" facs="unknown:032843_0030_0FF5B6F099A0C2B0"/>Nor do thou follow me.—Think not I ſcorn thee.—</l>
                      <l>No, Ethelbert: e'er ſince I ſaw thy change,</l>
                      <l>Thou haſt poſſeſt eſteem: and nothing more</l>
                      <l>This heart can give thee.—Farewell:—and leave me.</l>
@@ -1195,7 +1196,7 @@ So full is he of fear,</l>
                      <l>Sure, Ethelbert, thy paſſion doth obſcure</l>
                      <l>Thy ſight. Conſider well this garb. Who knows,</l>
                      <l>
-                        <pb n="33" facs="tcp:032843_0031_0FF5B6F21E4344C8"/>Thus far from winding Tyne, Earl Orgar's daughter?</l>
+                        <pb n="33" facs="unknown:032843_0031_0FF5B6F21E4344C8"/>Thus far from winding Tyne, Earl Orgar's daughter?</l>
                      <l>What man but, ſeeing me, ſhall deem <hi>me</hi> man?</l>
                      <l>And of ſuch holy ſort, that he ſhall feel</l>
                      <l>His duty bind him, to defend, not harm, me?</l>
@@ -1234,7 +1235,7 @@ So full is he of fear,</l>
                      <l>Hear me!—I ſwear,</l>
                      <l>By every fainted ſoul, in yonder heaven,</l>
                      <l>
-                        <pb n="34" facs="tcp:032843_0032_0FF5B6F3A2426A90"/>Thou ſhalt be ſafe, be free. I conjure thee</l>
+                        <pb n="34" facs="unknown:032843_0032_0FF5B6F3A2426A90"/>Thou ſhalt be ſafe, be free. I conjure thee</l>
                      <l>Hear me! 'Tis for thyſelf, for thy own life,</l>
                      <l>For thy own peace, for thy eternal peace,</l>
                      <l>I plead. Speak, Angelina!</l>
@@ -1268,7 +1269,7 @@ So full is he of fear,</l>
                   <stage>(The Banditti bind Ethelbert, and bear him out.)</stage>
                </div>
                <div n="6" type="scene">
-                  <pb n="35" facs="tcp:032843_0033_0FF5B6FD93AC9348"/>
+                  <pb n="35" facs="unknown:032843_0033_0FF5B6FD93AC9348"/>
                   <head>SCENE VI.</head>
                   <stage>SIFRID, <hi>alone.</hi>
                   </stage>
@@ -1301,7 +1302,7 @@ So full is he of fear,</l>
                   <stage>He goes out.</stage>
                </div>
                <div n="7" type="scene">
-                  <pb n="36" facs="tcp:032843_0034_0FF5B6FF17A888A8"/>
+                  <pb n="36" facs="unknown:032843_0034_0FF5B6FF17A888A8"/>
                   <head>SCENE VII.</head>
                   <stage>
                      <hi>The inſide of the Cavern:</hi> ETHELBERT <hi>diſcovered, bound, walking in front of the Stage: the</hi> BANDITTI <hi>ſilent, in the back part of the Scene, keeping guard.</hi>
@@ -1336,7 +1337,7 @@ So full is he of fear,</l>
                   <stage>(The Banditti unbind Ethelbert, and go out.)</stage>
                </div>
                <div n="9" type="scene">
-                  <pb n="37" facs="tcp:032843_0035_0FF5B700A6DE8020"/>
+                  <pb n="37" facs="unknown:032843_0035_0FF5B700A6DE8020"/>
                   <head>SCENE IX.</head>
                   <stage>ETHELBERT. SIFRID.</stage>
                   <stage>(Sifrid walks about—agitated—occaſionally ſtopping, and meaſuring Ethelbert with his eye—at length he ex<g ref="char:EOLhyphen"/>claims.)</stage>
@@ -1376,7 +1377,7 @@ So full is he of fear,</l>
                      <l>Sifrid!</l>
                   </sp>
                   <sp>
-                     <pb n="38" facs="tcp:032843_0036_0FF5B7022F07DB20"/>
+                     <pb n="38" facs="unknown:032843_0036_0FF5B7022F07DB20"/>
                      <speaker>SIFRID.</speaker>
                      <l>Yes, Sifrid.</l>
                      <l>And doth my name, alone, baniſh the colour</l>
@@ -1430,7 +1431,7 @@ So full is he of fear,</l>
                      <speaker>SIFRID.</speaker>
                      <l>Captive, in chains, ſhut from the ſun, the air,</l>
                      <l>
-                        <pb n="39" facs="tcp:032843_0037_0FF5B70C779A7F40"/>All intercourſe of friends, by thy command,</l>
+                        <pb n="39" facs="unknown:032843_0037_0FF5B70C779A7F40"/>All intercourſe of friends, by thy command,</l>
                      <l>For months, for years, I languiſht.</l>
                      <l>Thy villain hand each <hi>little</hi> good rent from me;</l>
                      <l>Or ever, with interpoſition rude,</l>
@@ -1471,7 +1472,7 @@ So full is he of fear,</l>
                      <l>Oh, no!—Thou'ſt fill'd the meaſure of thy guilt;</l>
                      <l>Triumph'd o'er every ſacred tie, that binds,</l>
                      <l>
-                        <pb n="40" facs="tcp:032843_0038_0FF5B70E02701988"/>In fellowſhip, the man to man.—And what,</l>
+                        <pb n="40" facs="unknown:032843_0038_0FF5B70E02701988"/>In fellowſhip, the man to man.—And what,</l>
                      <l>Plung'd as thou art in crimes, is left to do?</l>
                      <l>Is there, of juſtice, one unbroken law?</l>
                   </sp>
@@ -1512,7 +1513,7 @@ So full is he of fear,</l>
                      <l>Exalting each dark paſſion of my ſoul;</l>
                      <l>Haſt made me breathe with nought but fell revenge.—</l>
                      <l>
-                        <pb n="41" facs="tcp:032843_0039_0FF5B70F8BD73C18"/>—O hadſt thou torn all wealth, all honor, from me;</l>
+                        <pb n="41" facs="unknown:032843_0039_0FF5B70F8BD73C18"/>—O hadſt thou torn all wealth, all honor, from me;</l>
                      <l>Made me ſtill poorer than the wandering wretch,—</l>
                      <l>Sordid petitioner of daily food;—</l>
                      <l>Heapt to the heavens, impriſonment, and pain;</l>
@@ -1562,7 +1563,7 @@ So full is he of fear,</l>
                      <l>Moſt damn'd impoſtor!—</l>
                      <stage>(Ethelbert remains unappalled. Sifrid, looking on his face, obſerves it—drops the dagger, and exclaiming)</stage>
                      <l>
-                        <pb n="42" facs="tcp:032843_0040_0FF5B71113A1E100"/>He could not do it!—</l>
+                        <pb n="42" facs="unknown:032843_0040_0FF5B71113A1E100"/>He could not do it!—</l>
                      <stage>(Sinks into a reverie.)</stage>
                   </sp>
                   <sp>
@@ -1608,7 +1609,7 @@ So full is he of fear,</l>
                      <l>Had not my murderous hand rent the fond ties,</l>
                      <l>Diſſolv'd the fairy bliſs, canker'd the buds of love?—</l>
                      <l>
-                        <pb n="43" facs="tcp:032843_0041_0FF5B71C0F282080"/>Frenzy poſſeſt me;—and remorſeful grief,</l>
+                        <pb n="43" facs="unknown:032843_0041_0FF5B71C0F282080"/>Frenzy poſſeſt me;—and remorſeful grief,</l>
                      <l>With agonies ſo dreadful, ſhook my frame,</l>
                      <l>That reaſon totter'd on her throne; and hope,</l>
                      <l>That I ſhould e'er revive, my friends forſook.</l>
@@ -1656,7 +1657,7 @@ So full is he of fear,</l>
                      <l>Whether by chance, or Heaven's conducting hand,</l>
                      <l>The long loſt fair I found; when, captive made,</l>
                      <l>
-                        <pb n="44" facs="tcp:032843_0042_0FF5B71D9489D3E8"/>Hither have I been led, in ſome poor ſort,</l>
+                        <pb n="44" facs="unknown:032843_0042_0FF5B71D9489D3E8"/>Hither have I been led, in ſome poor ſort,</l>
                      <l>The wrongs on thee enforc'd, to expiate.</l>
                   </sp>
                   <sp>
@@ -1709,7 +1710,7 @@ So full is he of fear,</l>
                <trailer>END OF ACT II.</trailer>
             </div>
             <div n="3" type="act">
-               <pb n="45" facs="tcp:032843_0043_0FF5B71F1B540090"/>
+               <pb n="45" facs="unknown:032843_0043_0FF5B71F1B540090"/>
                <head>ACT THIRD.</head>
                <div n="1" type="scene">
                   <head>SCENE I.</head>
@@ -1740,7 +1741,7 @@ So full is he of fear,</l>
                      <l>In vain, at earlieſt morn and deepeſt night,</l>
                      <l>I kneel before my ruſtic altar; preſs,</l>
                      <l>
-                        <pb n="46" facs="tcp:032843_0044_0FF5B7209ECAB4A8"/>With trembling lips, the crucifix; and ſtrive</l>
+                        <pb n="46" facs="unknown:032843_0044_0FF5B7209ECAB4A8"/>With trembling lips, the crucifix; and ſtrive</l>
                      <l>To frame ſome apt, and well-according prayer;</l>
                      <l>Love and deſpair ſtill triumph in my breaſt.</l>
                      <l>Angelina!—Angelina!—This cell,</l>
@@ -1776,7 +1777,7 @@ So full is he of fear,</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="47" facs="tcp:032843_0045_0FF5B72B6063C750"/>
+                     <pb n="47" facs="unknown:032843_0045_0FF5B72B6063C750"/>
                      <speaker>EDWIN.</speaker>
                      <stage>(Turns, and advances.)</stage>
                      <l>Pilgrim! fatigue ſits heavy on thy frame;</l>
@@ -1819,7 +1820,7 @@ So full is he of fear,</l>
                   </sp>
                </div>
                <div n="4" type="scene">
-                  <pb n="48" facs="tcp:032843_0046_0FF5B72CE688FD80"/>
+                  <pb n="48" facs="unknown:032843_0046_0FF5B72CE688FD80"/>
                   <head>SCENE IV.</head>
                   <stage>
                      <hi>Enter, to</hi> ETHELBERT, SIFRID—<hi>with a wild and diſtracted air; as having juſt diſmiſt the</hi> BANDITTI; <hi>and without obſerving</hi> ETHELBERT.</stage>
@@ -1850,7 +1851,7 @@ So full is he of fear,</l>
                      <l>But now,—horrible ſtate!—tho' heaven itſelf</l>
                      <l>Entices me to turn;—tho' I do know</l>
                      <l>
-                        <pb n="49" facs="tcp:032843_0047_0FF5B72E6A0990F0"/>Where it will plunge me;—ſtand upon the brink;—</l>
+                        <pb n="49" facs="unknown:032843_0047_0FF5B72E6A0990F0"/>Where it will plunge me;—ſtand upon the brink;—</l>
                      <l>Tottering;—I muſt—
 <stage>(ſtarting back)</stage>
 horror! horror!</l>
@@ -1905,7 +1906,7 @@ And is it thee?
                      <l>I've ſworn upon my ſoul,—and muſt go on.</l>
                   </sp>
                   <sp>
-                     <pb n="50" facs="tcp:032843_0048_0FF5B72FED377468"/>
+                     <pb n="50" facs="unknown:032843_0048_0FF5B72FED377468"/>
                      <speaker>ETHELBERT.</speaker>
                      <l>Horrid, but powerleſs, oath.</l>
                   </sp>
@@ -1951,7 +1952,7 @@ And is it thee?
                      <l>Perchance of thy beſt chiefs, moſt ſure await thee.</l>
                      <l>If fortunate at firſt, it can not laſt;</l>
                      <l>
-                        <pb n="51" facs="tcp:032843_0049_0FF5B73BB09C3AA8"/>Unfortunate, thy people's, and thy, lot,</l>
+                        <pb n="51" facs="unknown:032843_0049_0FF5B73BB09C3AA8"/>Unfortunate, thy people's, and thy, lot,</l>
                      <l>How dreadful! The reverſe, how ſweet! Where thou,</l>
                      <l>Where they, a ready pardon, from the throne,</l>
                      <l>Procur'd, ſecure, the joys of peace may taſte;</l>
@@ -2000,7 +2001,7 @@ And is it thee?
                      <l>Is it not death to him who firſt ſhall dare</l>
                      <l>Requeſt a change? And how ſhall I, who fram'd,</l>
                      <l>
-                        <pb n="52" facs="tcp:032843_0050_0FF5B73D35AC0D20"/>Propos'd, the oath; exacted their acceptance;</l>
+                        <pb n="52" facs="unknown:032843_0050_0FF5B73D35AC0D20"/>Propos'd, the oath; exacted their acceptance;</l>
                      <l>Dare, firſt, to ſeek exemption from its bonds?</l>
                      <l>O, would they but relent; unite, with me,</l>
                      <l>In more endeared toils;
@@ -2042,7 +2043,7 @@ thou wilt have rais'd</l>
                         <l>What joy the generous paſſion gives!</l>
                         <l>Within the ſoul what tranſport lives!</l>
                         <l>
-                           <pb n="53" facs="tcp:032843_0051_0FF5B73EBB595818"/>But when, where fixt had envious fate,</l>
+                           <pb n="53" facs="unknown:032843_0051_0FF5B73EBB595818"/>But when, where fixt had envious fate,</l>
                         <l>Suſpicion dire, and cauſeleſs hate,</l>
                         <l>Reviving love awakes its fires,—</l>
                         <l>What bliſs the unlook'd for good inſpires!</l>
@@ -2085,7 +2086,7 @@ thou wilt have rais'd</l>
                      <l>Remote from courts, and palaces, and kings;</l>
                      <l>From domes of grandeur, and from halls of wealth;</l>
                      <l>
-                        <pb n="54" facs="tcp:032843_0052_0FF5B74044006A00"/>Far from the poiſonous city's buſy hum;</l>
+                        <pb n="54" facs="unknown:032843_0052_0FF5B74044006A00"/>Far from the poiſonous city's buſy hum;</l>
                      <l>From Paſſion's reign, and fierce Ambition's war,</l>
                      <l>Borne on the winnowing gale, flies Happineſs.</l>
                      <l>She loves, with Peace her ſiſter, to reſide</l>
@@ -2126,7 +2127,7 @@ Doſt thou doubt!—</l>
                      <l>Debas'd, no longer can itſelf ſupport.</l>
                   </sp>
                   <sp>
-                     <pb n="55" facs="tcp:032843_0053_0FF5B74B20B2A2D0"/>
+                     <pb n="55" facs="unknown:032843_0053_0FF5B74B20B2A2D0"/>
                      <speaker>ANGELINA.</speaker>
                      <l>Father, I wiſh it not.</l>
                   </sp>
@@ -2172,7 +2173,7 @@ Grieve not for this;—our earthly lot is woe;</l>
                      <l>As, even in fancy, to poſſeſs a friend.</l>
                   </sp>
                   <sp>
-                     <pb n="56" facs="tcp:032843_0054_0FF5B74CA586F6D0"/>
+                     <pb n="56" facs="unknown:032843_0054_0FF5B74CA586F6D0"/>
                      <speaker>EDWIN.</speaker>
                      <l>And Love,—Love hath, perhaps, tormented thee?</l>
                      <l>Haſt to a fair-one ever op'd thy ſoul?</l>
@@ -2212,7 +2213,7 @@ Haſt thou lov'd?</l>
                      <l>With acrimonious, with inſulting ſcorn.</l>
                   </sp>
                   <sp>
-                     <pb n="57" facs="tcp:032843_0055_0FF5B74E2B282438"/>
+                     <pb n="57" facs="unknown:032843_0055_0FF5B74E2B282438"/>
                      <speaker>ANGELINA.</speaker>
                      <stage>(Starting up with wildneſs, claſping her hands, and preſſing them to her head; her hat, at the ſame time, falling off, and her long hair floating down her back.)</stage>
                      <l>Gracious, gracious God!— Spare me!— O ſpare me!</l>
@@ -2268,7 +2269,7 @@ Haſt thou lov'd?</l>
                      <speaker>EDWIN.</speaker>
                      <l>'Tis well.—</l>
                      <l>
-                        <pb n="58" facs="tcp:032843_0056_0FF5B74FB1401010"/>Yes, let them flow. Compoſure flies afar</l>
+                        <pb n="58" facs="unknown:032843_0056_0FF5B74FB1401010"/>Yes, let them flow. Compoſure flies afar</l>
                      <l>From where ſit mute Deſpair and tearleſs Anguiſh;</l>
                      <l>But gently lights, where Grief her ſacred dew</l>
                      <l>Sheds 'round the mourner.
@@ -2319,7 +2320,7 @@ What ſhall I hear?</l>
                      <l>Early, how early loſt!</l>
                   </sp>
                   <sp>
-                     <pb n="59" facs="tcp:032843_0057_0FF5B75A6006B330"/>
+                     <pb n="59" facs="unknown:032843_0057_0FF5B75A6006B330"/>
                      <speaker>EDWIN.</speaker>
                      <l>Ceaſe not, thou fair—</l>
                   </sp>
@@ -2369,7 +2370,7 @@ What ſhall I hear?</l>
                      <l>The muſk-roſe, which unfolds its tender flowers</l>
                      <l>Unto the early ſun; the dew, which loves to hang</l>
                      <l>
-                        <pb n="60" facs="tcp:032843_0058_0FF5B75BE60E37D0"/>Its trembling luſtres on the ſilver bell,</l>
+                        <pb n="60" facs="unknown:032843_0058_0FF5B75BE60E37D0"/>Its trembling luſtres on the ſilver bell,</l>
                      <l>The lily of the vale; his purer mind</l>
                      <l>But faintly emulate. The roſe, the dew,</l>
                      <l>With charms inconſtant ſhine: their charms were his;</l>
@@ -2412,7 +2413,7 @@ What ſhall I hear?</l>
                      <l>Man—</l>
                   </sp>
                   <sp>
-                     <pb n="61" facs="tcp:032843_0059_0FF5B75D69B44500"/>
+                     <pb n="61" facs="unknown:032843_0059_0FF5B75D69B44500"/>
                      <speaker>EDWIN.</speaker>
                      <lg>
                         <l>Turn, Angelina, ever dear,</l>
@@ -2445,7 +2446,7 @@ What ſhall I hear?</l>
                      <speaker>ETHELBERT.</speaker>
                      <l>'Tis ſhe! and in another's arms!—</l>
                      <l>
-                        <pb n="62" facs="tcp:032843_0060_0FF5B75EEE79DF78"/>Hermit!</l>
+                        <pb n="62" facs="unknown:032843_0060_0FF5B75EEE79DF78"/>Hermit!</l>
                      <l>Releaſe—</l>
                   </sp>
                   <sp>
@@ -2505,7 +2506,7 @@ My Angelina—</l>
                      <l>Far be from us impiety ſo baſe.</l>
                      <l>Earl Ethelbert moſt dearly loves the maid</l>
                      <l>
-                        <pb n="63" facs="tcp:032843_0061_0FF5B7697079C658"/>Whom thou withhold'ſt: and ſurely thou doſt know</l>
+                        <pb n="63" facs="unknown:032843_0061_0FF5B7697079C658"/>Whom thou withhold'ſt: and ſurely thou doſt know</l>
                      <l>Of what fierce quality and fiery power</l>
                      <l>Is love; and wilt forgive impetuous ſpeech.</l>
                      <l>He ſeeks but to reſtore her to her friends,</l>
@@ -2559,7 +2560,7 @@ Villain! I dare thee!</l>
                      </l>
                   </sp>
                   <sp>
-                     <pb n="64" facs="tcp:032843_0062_0FF5B76AF4EB5530"/>
+                     <pb n="64" facs="unknown:032843_0062_0FF5B76AF4EB5530"/>
                      <speaker>EDWIN.</speaker>
                      <l>Nay, hang not back!</l>
                      <l>We ſtand upon the perilous brink of death,</l>
@@ -2607,7 +2608,7 @@ I will—</l>
                   </sp>
                   <stage>(Angelina places one hand in his—the other in Edwin's.)</stage>
                   <sp>
-                     <pb n="65" facs="tcp:032843_0063_0FF5B76C81C85C20"/>
+                     <pb n="65" facs="unknown:032843_0063_0FF5B76C81C85C20"/>
                      <speaker>ANGELINA.</speaker>
                      <l>When Edwin pardons, I can ne'er refuſe.</l>
                   </sp>
@@ -2641,7 +2642,7 @@ My friends, one myſtery remains to you.</l>
                   </sp>
                </div>
                <div n="7" type="scene">
-                  <pb n="66" facs="tcp:032843_0064_0FF5B76E0758F758"/>
+                  <pb n="66" facs="unknown:032843_0064_0FF5B76E0758F758"/>
                   <head>SCENE VII.</head>
                   <stage>
                      <hi>Enter</hi> WALTER <hi>and</hi> EDRED, <hi>with other</hi> BANDITTI.</stage>
@@ -2689,7 +2690,7 @@ My friends! Hear all.</l>
                      <l>I know my life is forfeit; and that you,</l>
                      <l>As moſt ſhall pleaſe, may ſpare, or may exact it.</l>
                      <l>
-                        <pb n="67" facs="tcp:032843_0065_0FF5B77A14749280"/>I have well weigh'd the terms, and place that life,</l>
+                        <pb n="67" facs="unknown:032843_0065_0FF5B77A14749280"/>I have well weigh'd the terms, and place that life,</l>
                      <l>Now more than ever dear, upon the iſſue.—</l>
                      <l>If it ſhall pleaſe you to allow me chance,</l>
                      <l>I will unfold my purpoſe.</l>
@@ -2733,7 +2734,7 @@ What ſay You—</l>
                      <l>Who ſhall attempt to make ye ſlaves.—My friends!</l>
                      <l>Ye do miſtake:—Not vaſſalage, but wealth,</l>
                      <l>
-                        <pb n="68" facs="tcp:032843_0066_0FF5B77B98B034A8"/>Is offer'd;—not bonds, but independence.—</l>
+                        <pb n="68" facs="unknown:032843_0066_0FF5B77B98B034A8"/>Is offer'd;—not bonds, but independence.—</l>
                      <l>Think of the value of the proffer'd boon!</l>
                      <l>To your own hearts I ſpeak; what hath revenge</l>
                      <l>Of pleaſure ſo unmixt, as rural eaſe,</l>
@@ -2771,7 +2772,7 @@ What ſay You—</l>
                      <l>Why do ye linger?</l>
                   </sp>
                   <sp>
-                     <pb n="69" facs="tcp:032843_0067_0FF5B77D23201C78"/>
+                     <pb n="69" facs="unknown:032843_0067_0FF5B77D23201C78"/>
                      <speaker>WALTER.</speaker>
                      <stage>(Sheathing his ſword.)</stage>
                      <l>'Twas man's oppreſſion made me what I am;</l>
@@ -2821,7 +2822,7 @@ O! we will form</l>
                      <l>Now burſt the ſhout of joy around,</l>
                      <l>And let the foreſt wide reſound.</l>
                      <l>
-                        <pb n="70" facs="tcp:032843_0068_0FF5B77EABDB3410"/>Peace, henceforth, forever reigns;</l>
+                        <pb n="70" facs="unknown:032843_0068_0FF5B77EABDB3410"/>Peace, henceforth, forever reigns;</l>
                      <l>And laughing Plenty loads our plains:</l>
                      <l>Then burſt the ſhout of joy around,</l>
                      <l>And let the foreſt wide reſound.</l>
@@ -2868,7 +2869,7 @@ O! we will form</l>
                         <l>And living verdure, mark their way:</l>
                      </lg>
                      <stage>
-                        <pb n="71" facs="tcp:032843_0069_0FF5B788DAEEF948"/>
+                        <pb n="71" facs="unknown:032843_0069_0FF5B788DAEEF948"/>
                         <hi>Chorus.</hi>
                      </stage>
                      <l>Loud burſt the ſhouts of joy around,</l>
@@ -2907,7 +2908,7 @@ O! we will form</l>
                         <l>Howl o'er the ſea, and ſweep the ſhore;</l>
                      </lg>
                      <lg>
-                        <pb n="72" facs="tcp:032843_0070_0FF5B78A5FE5D138"/>
+                        <pb n="72" facs="unknown:032843_0070_0FF5B78A5FE5D138"/>
                         <l>The whelm'd ſhip ſinks, the cottage <gap reason="illegible: indecipherable" extent="1 word">
                               <desc>〈◊〉</desc>
                            </gap>
